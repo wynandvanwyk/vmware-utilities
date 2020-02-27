@@ -1,2 +1,2 @@
 # vmware-utilities
-A collection of scripts to ease vSphere/ESXI administration
+A collection of my scripts used to ease vSphere/ESXI administration
